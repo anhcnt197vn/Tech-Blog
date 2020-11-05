@@ -20,6 +20,7 @@
 .sliderCenter {
   position: absolute;
   z-index: 2;
+  background-color: rgba(25,25,25,0.4);
   background-image: url("https://theblogabroad.com/wp-content/themes/fortunato-pro/images/overlay.png");
   height: 100%;
   width: 100%;

@@ -10,7 +10,7 @@ export const Slider: React.FC<Props> = () => {
       </div>
       <div className={style.sliderCenter}>
         <h1 className={style.title}>
-          The Blog Abroad
+          The Tech Blog
         </h1>
         <p className={style.description}>Spreading joy for the glory of God</p>
       </div>
